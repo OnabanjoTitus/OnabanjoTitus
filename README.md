@@ -10,8 +10,12 @@ I'm here to help the world learn to code, do great things with data prowess, jav
 
 
 #### Github Stats 📊
+Be sure to hit me up on twitter cheers 🚀🚀🚀🚀🚀🚀!
 
 [![Onabanjo Titus github stats](https://github-readme-stats.vercel.app/api?username=OnabanjoTitus)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OnabanjoTitus&" alt="OnabanjoTitus" /></p>
 
-Be sure to hit me up on twitter [Twitter](https://twitter.com/onabanjo_titus) cheers !
+
+
+
